@@ -175,10 +175,6 @@ What were the differences in output between the CUDA and CPU implementations? Di
 
 Suggest potential optimizations for improving the performance of the Sobel filter.The performance of the Sobel filter can be improved by using shared memory, optimizing block and grid size, reducing global memory access, and minimizing unnecessary data transfers between CPU and GPU.
 
-Deliverables:
 
-Modified CUDA code with comments explaining your changes.
-A report summarizing your findings, including graphs of execution times and a comparison of outputs.
-Answers to the questions posed in the experiment.
 
 
